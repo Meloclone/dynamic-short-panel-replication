@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated manuscript."
+title: "Replication materials for Separating State Dependence from Serial Correlation in Dynamic Short Panels"
+type: software
+version: "1.0.0"
+date-released: 2026-08-21
+license: MIT
+repository-code: "https://github.com/Meloclone/dynamic-short-panel-replication"
+keywords:
+  - dynamic panels
+  - short panels
+  - GMM
+  - identification
+  - serial correlation
+authors:
+  - name: "Anonymous authors"
